@@ -54,3 +54,4 @@ Hasil Perhitungan
 
 
 ## 5. Visualisasikan jejaring menggunakan Gephi atau NetworkX, kemudian simpulkan karakteristik jaringan berdasarkan seluruh hasil analisis.
+ ![Visualisasi](image.png)
