@@ -11,11 +11,13 @@ Tugas UAS Untara
 Repository ini berisi berkas analisis Social Network Analysis (SNA) menggunakan dataset Wiki-Vote dari Stanford SNAP.
 
 ## 1. Gambarkan dan jelaskan representasi graf dari jejaring yang digunakan. Tentukan jenis graf (berarah/tak berarah dan berbobot/tidak berbobot), kemudian buat contoh matriks adjacency dari minimal lima node.
+- Representasi :
+  a. Dataset : wiki-vote dari Stanford SNAP Repository yang merepresentasikan jaringan pemungutan suara
+  b. Node : 7.155 dan 1103.689 Edge
+- Jenis Graff : Graff berarah dan Graff tidak berbobot
 - Gambar :
   ![Visualisasi Sampel 5 Node](visualisasi_5node.png)
-
-- Jenis Graff :
-
+  
 ## 2. Hitung dan analisis Degree Centrality, Betweenness Centrality, Closeness Centrality, dan Eigenvector Centrality. Jelaskan peran node yang memiliki nilai tertinggi pada masing-masing metrik.
 
 ## 3. Hitung Density, Diameter, Average Path Length, dan Clustering Coefficient. Selanjutnya lakukan deteksi komunitas menggunakan algoritma Louvain atau Girvan-Newman, kemudian interpretasikan hasilnya terhadap struktur jaringan.
