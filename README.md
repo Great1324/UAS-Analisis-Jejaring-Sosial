@@ -9,4 +9,4 @@ Tugas UAS Untara
 ## Deskripsi Repository
 Repository ini berisi berkas analisis Social Network Analysis (SNA) menggunakan dataset Wiki-Vote dari Stanford SNAP.
 
-## Dataset : `Wiki-Vote.txt`
+## Dataset : `wiki-Vote.txt.gz`
