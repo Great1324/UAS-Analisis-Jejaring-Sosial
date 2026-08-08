@@ -12,7 +12,7 @@ Repository ini berisi berkas analisis Social Network Analysis (SNA) menggunakan 
 
 ## 1. Gambarkan dan jelaskan representasi graf dari jejaring yang digunakan. Tentukan jenis graf (berarah/tak berarah dan berbobot/tidak berbobot), kemudian buat contoh matriks adjacency dari minimal lima node.
 - Gambar :
-
+  ![Visualisasi Sampel 5 Node](visualisasi_5node.png)
 
 - Jenis Graff :
 
