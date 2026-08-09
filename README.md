@@ -16,11 +16,13 @@ Repository ini berisi berkas analisis Social Network Analysis (SNA) menggunakan 
 - b. Node : 3783 dan 24186 Edge
 - Jenis Graff : Graff berarah dan Graff berbobot
 - Matriks Adjacency dengan 5 node : 7188, 1, 430, 3134, 3026
+  _________________
  [ 0. 10.  0.  0.  0.]
  [ 0.  0.  0.  1.  1.]
  [ 0. 10.  0.  0.  0.]
  [ 0. 10.  0.  0.  0.]
  [ 0. 10.  0.  0.  0.]
+ _____________________
 - Gambar :
   ![Visualisasi Sampel 5 Node](visualisasi_5node.png)
   
